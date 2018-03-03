@@ -24,7 +24,7 @@ class StockDataManager {
     /*!
      * @discussion Function that given an array of symbols, get their stock prizes from yahoo and send them inside a NSNotification UserInfo
      * @param stocks An Array of tuples with the symbols in position 0 of each tuple
-     */
+     */ 
 //    func updateListOfSymbols(stocks:Array<(String,Double)>) ->() {
         
         
